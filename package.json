@@ -1,0 +1,27 @@
+{
+  "name": "changeset-gitlab-changelog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireairforce/changeset-gitlab-changelog.git"
+  },
+  "keywords": [
+    "changeset",
+    "plugins"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireairforce/changeset-gitlab-changelog/issues"
+  },
+  "homepage": "https://github.com/fireairforce/changeset-gitlab-changelog#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
